@@ -3,10 +3,10 @@
     
 --- 
 
-main.tf --- 
+main.tf --- https://github.com/dvbychkov/clopro-homeworks-15.3/blob/master/main.tf
 
 
-outputs.tf --- 
+outputs.tf --- https://github.com/dvbychkov/clopro-homeworks-15.3/blob/master/outputs.tf
 
 
 
